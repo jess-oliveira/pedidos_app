@@ -1,4 +1,4 @@
-# App de Pedidos
+# App de Pedidos 📝
 
 Projeto acadêmico desenvolvido em Python com foco na prática de:
 
