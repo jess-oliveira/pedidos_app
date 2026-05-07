@@ -4,8 +4,8 @@ Projeto acadêmico desenvolvido em Python com foco na prática de:
 
 - listas
 - loops
-- funções
 - condicionais
+- funções
 - manipulação de dados
 - organização de fluxo da aplicação
 
